@@ -1,0 +1,16 @@
+Just start forecasting.
+- Explore big public datasets. Combine with some research. Document and publish.
+  + commoditiesjazz
+  + climate
+  + earthquakes
+  + jazz
+  + traffic
+  + FHIR endpoints/consumers meta-analysis
+  + healthcare market analysis
+Need to set up databases, markdown, and hosting.
+
+Do this for a little while, get good at it, and get noticed. 
+
+Art for art's sake.
+- Spotrac extension
+- Travel twitter
