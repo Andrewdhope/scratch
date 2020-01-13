@@ -1,6 +1,6 @@
 Just start forecasting.
 - Explore big public datasets. Combine with some research. Document and publish.
-  + commoditiesjazz
+  + commodities
   + climate
   + earthquakes
   + jazz
