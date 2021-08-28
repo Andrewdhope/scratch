@@ -3,7 +3,6 @@ Just start forecasting.
   + commodities
   + climate
   + earthquakes
-  + jazz
   + traffic
   + FHIR endpoints/consumers meta-analysis
   + healthcare market analysis
